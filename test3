@@ -1,0 +1,5 @@
+<svg width = "160" height="90">
+  <rect x="0" y="0" width="160" height="30" style="fill:black;">
+  <rect x="0" y="0" width="160" height="30" style="fill:red;">
+  <rect x="0" y="0" width="160" height="30" style="fill:yellow;">
+</svg>
